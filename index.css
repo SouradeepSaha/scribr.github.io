@@ -26,16 +26,6 @@ body {
 	padding-top: 50px;
 }
 
-.bg {
-
-  height: 60vh;
-  width: 100%;
-  background-image: url("./images/background.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  
-}
-
 .title {
 
   text-align: center;
@@ -290,16 +280,9 @@ p {
 
   .info {
 
-      margin-top: 0em;
-      width: 100%;
+      margin-top: 10em;
+      width: 90%;
 
-  }
-
-  .bg {
-
-      height: 30vh;
-      width: 100%;
-      
   }
 
   .title {
